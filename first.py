@@ -1,3 +1,4 @@
+# Это коммент номер 1
 def ddd(par = None):
     if par is None:
         print("--")
