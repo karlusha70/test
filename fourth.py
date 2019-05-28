@@ -1,1 +1,1 @@
-'ssss'
+Print('ssss'_
